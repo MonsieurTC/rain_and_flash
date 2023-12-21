@@ -76,7 +76,8 @@ body {
     transform-origin: bottom;
     animation: animate 2s linear infinite;
   }
-  
+
+  /* Animation de la pluie */
   @keyframes animate {
     0% {
       transform: translateY(0) scaleY(1);
